@@ -1,8 +1,10 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://i.ibb.co/C5pW0P0/servafri-banner.png" alt="ServAfri" />
+  <img src="https://i.ibb.co/dwkd7V4T/IMG-5068.jpg" alt="ServAfri" />
 </div>
+
+
 
 
 # ServAfri
