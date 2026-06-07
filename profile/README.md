@@ -7,7 +7,7 @@
 
 
 
-# ServAfri
+# ServAfri Technologies
 
 The Cloud Infrastructure Platform Built for Africa
 
