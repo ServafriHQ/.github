@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ServafriHQ/Servafri/main/public/servafri-logo.png" width="120" alt="ServAfri Logo" />
+<div align="center">
+  <img src="https://i.ibb.co/C5pW0P0/servafri-banner.png" alt="ServAfri" />
+</div>
+
 
 # ServAfri
 
