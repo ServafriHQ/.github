@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://i.ibb.co/dwkd7V4T/IMG-5068.jpg" alt="ServAfri" />
+  <img src="https://i.ibb.co/KqpHfnq/IMG-6919.jpg" alt="ServAfri" />
 </div>
 
 
